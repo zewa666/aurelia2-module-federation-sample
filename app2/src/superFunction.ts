@@ -1,0 +1,1 @@
+export const superFunction = () => console.log('hello world from App2');
